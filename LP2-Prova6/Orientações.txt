@@ -1,8 +1,0 @@
-O mysql-connector-java-8.0.15 deve estar na pasta do projeto
-
-Antes de executar o projeto, digite no terminal o seguinte comando:
-javac -cp ".;mysql-connector-java-8.0.15.jar" Main.java
-
-Toda vez que for executar o código digite no terminal o 
-seguinte comando:
-java -cp ".;mysql-connector-java-8.0.15.jar" Main
