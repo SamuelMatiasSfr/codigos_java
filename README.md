@@ -1,6 +1,6 @@
 # Códigos em Java
 
-Repositório de códigos em Java! Estes projetos foram desenvolvidos como atividades práticas da matéria Linguagem e Técnicas de Programação 2 no curso técnico de informática do CEFET-MG.
+Estes projetos foram desenvolvidos como atividades práticas da matéria Linguagem e Técnicas de Programação 2 no curso técnico de informática do CEFET-MG.
 
 ## Tecnologias:
 - Java
